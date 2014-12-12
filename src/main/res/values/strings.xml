@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoResizeTextView</string>
+    <string name="ellipsis">…</string>
+</resources>
